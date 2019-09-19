@@ -46,4 +46,33 @@ I worked for distributor companies of big international corporations (Mars, Henk
 ### *Major responsibilities*:
 * Maintenance of company network.
 ---
+## **Key skills**:
+### __*Technical skills*__:
+During IT training courses I worked with the following technologies and programming
+languages/frameworks: ASP.NET MVC, Web Api, Entity Framework, ASP.NET Identity, Angular, SQL,
+LINQ, HTML, Bootstrap.
+### *Code example*:
+https://github.com/belka46/Life_Game
 
+```
+<html>
+  <body>
+
+    <p>
+      <!--Изображение:-->
+      <img src="smiley.gif" alt="Улыбка" width="32" height="32" />
+    </p>
+
+    <p>
+      <!--Двигающееся изображение:-->
+      <img src="hackanm.gif" alt="Хакер" width="48" height="48" />
+    </p>
+  </body>
+</html>
+```
+### __*Foreign languages*__: 
+English – pre-intermediate (currently I’m taking individual classes with a tutor).
+### __*Soft skills*__: 
+self-organized, highly responsible, analytical thinking, good-communication skills.
+### __*Additional skills*__: 
+car maintenance and tuning, hiking, traveling, fishing.
