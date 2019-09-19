@@ -13,6 +13,9 @@
 ---
 ## **Desired position**: JS Developer
 ---
+## __*Summary*__:
+### At this stage of my life, my goal is to find new ways to apply my life experience. Learn new things. Discover new opportunities. Learn new technologies. To take part in the creation of something new that makes life better and the world more interesting. I am sure that programming will help me with this.
+---
 ## **Education**: 
 * Belarussian National University, Information Technologies and Robotics Faculty (2004-2011).
 * IT-academy STEP, course "Software develjopment" (november 2016 - march 2018)
