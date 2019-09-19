@@ -13,3 +13,9 @@
 ---
 ## **Desired position**: JS Developer
 ---
+## **Education**: 
+* Belarussian National University, Information Technologies and Robotics Faculty (2004-2011).
+* IT-academy STEP, course "Software develjopment" (november 2016 - march 2018)
+* IT-academy, base course "C# programming" (january 2018 - march 2018)
+* IT-academy Professional course "Enterprise programming on ASP.Net (EPAM course)"
+---
